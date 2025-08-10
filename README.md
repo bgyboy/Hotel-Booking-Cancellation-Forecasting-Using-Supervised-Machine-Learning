@@ -78,7 +78,18 @@ How to Run
    pip install -r requirements.txt
 3. Run the Jupyter Notebook or Python script to reproduce results.
 
+Sample Results
+------------
+
+<img width="3600" height="2400" alt="boxcurve" src="https://github.com/user-attachments/assets/7569e219-4f6b-4ad1-a9e9-8d4c3046b97f" />
+
+
+<img width="1920" height="1440" alt="guests_lineplot" src="https://github.com/user-attachments/assets/0c84fe1b-b0d9-4953-ab6f-ec4beefca745" />
+
+
+<img width="1920" height="1440" alt="lineplot" src="https://github.com/user-attachments/assets/87a6a2b4-0e8c-41cb-bd23-b233137cc944" />
+
+
 Author
 ------
 Ayush Kumar
-
